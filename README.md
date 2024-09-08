@@ -39,3 +39,6 @@ If you find our work helpful in your research, kindly consider citing it. We app
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
 Email: zhangyiyan@hhu.edu.cn 
+
+## License  
+This project is released under the [Apache 2.0 license](LICENSE).
