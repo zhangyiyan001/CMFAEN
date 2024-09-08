@@ -10,7 +10,7 @@ config = {
     'channel': 144,        # Hosuton->144; Trento->63; MUUFL->64
     'class_num': 15,       # Hosuton->15;  Trento->6;  MUUFL->11
     'batch_size': 128,
-    'window_size': 11,
+    'window_size': 11,     #  Hosuton->11; Trento->7;  MUUFL->11
     'learning_rate': 0.0005,
     'weight_decay': 0.0001,
     'epoches': 300,
